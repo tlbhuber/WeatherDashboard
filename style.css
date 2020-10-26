@@ -1,0 +1,47 @@
+header.jumbotron {
+    background-color: darkcyan;
+    margin: 0px
+}
+
+/* * {
+    background-color: darkgrey;} */
+
+
+h1 {
+    text-align: center;
+    color: Blue;
+    font-family: 'Purple Purse', cursive;
+    padding: 0px!
+} 
+
+h1.display-4, div.container.jumbo{
+    background-color: darkcyan;
+    font-size: 75px;
+}
+
+#locationSearch {
+    background-color: white;
+}
+
+div.card {
+background-color: floralwhite;
+
+}
+
+div.col-lg-2, div.forecast {
+    background-color: whitesmoke;
+}
+
+div.col-lg-2 {
+    background-color: whitesmoke;
+    border-style: solid;
+    border-color: black;
+}
+
+div.col-lg-4 {
+    background-color:   #212529
+}
+
+p.saves {
+    color: whitesmoke; 
+}
